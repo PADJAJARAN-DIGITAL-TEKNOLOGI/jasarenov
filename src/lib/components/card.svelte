@@ -16,7 +16,8 @@
 
   // image props
   export let img = "";
-  export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  // export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  export let back = "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png";
   export let foil = "";
   export let mask = "";
 
@@ -37,7 +38,10 @@
 
   let back_img = back;
   let front_img = "";
-  let img_base = img.startsWith("http") ? "" : "https://images.pokemontcg.io/";
+  // let img_base = img.startsWith("http") ? "" : "https://images.pokemontcg.io/";
+  let img_base = img.startsWith("http") ? "" : "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png";
+
+ 
 
 
   let thisCard;

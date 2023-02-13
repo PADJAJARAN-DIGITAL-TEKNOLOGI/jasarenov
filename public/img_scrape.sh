@@ -26,8 +26,8 @@ fetch_json() {
     echo "╿  ↯  📃 Fetching JSON ┃ $REMOTE_JSON  "  
     echo "└┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈";
 
-    JSON=$( curl $REMOTE_JSON );     # 🌐 remote JSON file
-    # JSON=$( cat $REMOTE_JSON );      # 💻 local JSON file
+    #JSON=$( curl $REMOTE_JSON );     # 🌐 remote JSON file
+    JSON=$( cat $REMOTE_JSON );      # 💻 local JSON file
 
   else
 
