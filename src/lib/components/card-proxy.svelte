@@ -49,7 +49,10 @@
       return img;
     }
     if ( isDefined( set ) && isDefined( number ) ) {
-      return `https://images.pokemontcg.io/${ set.toLowerCase() }/${ number }_hires.png`;
+      // return `https://images.pokemontcg.io/${ set.toLowerCase() }/${ number }_hires.png`;
+      return `https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png`;
+
+      
     }
     return "";
   }
