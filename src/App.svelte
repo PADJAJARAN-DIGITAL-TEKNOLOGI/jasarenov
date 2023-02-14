@@ -142,6 +142,67 @@
 		{/if}
 	</CardList>
 
+
+	<h2 id="⚓-reverse">
+		<a href="#⚓-reverse">
+			Pemasangan Listrik
+		</a>
+	</h2>
+	<p>
+		<!-- All cards get a 3d rotation with CSS based on the cursor position.<br /> The default basic
+		non-holo cards simply apply a <mark>flare/glare effect</mark> to the card which follows the mouse. -->
+
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each basics as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					img={card.images.large}
+					number={card.number}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-holo">
+		<a href="#⚓-holo">
+			Rolling Door
+		</a>
+	</h2>
+	<p>
+		<!-- All cards get a 3d rotation with CSS based on the cursor position.<br /> The default basic
+		non-holo cards simply apply a <mark>flare/glare effect</mark> to the card which follows the mouse. -->
+
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each basics as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					img={card.images.large}
+					number={card.number}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
 </main>
 
 <div class="back-to-top">
