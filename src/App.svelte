@@ -153,7 +153,10 @@
 		</a>
 	</h2>
 	<p>
-		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	Keramik lantai dan dinding adalah salah satu elemen penting dalam desain interior bangunan. Pemasangannya pun membutuhkan keahlian khusus karena memiliki akurasi pengukuran dan bahan-bahan serta peralatan khusus. Pemasangan keramik yang tepat akan membantu daya tahan bangunan menjadi lebih lama. Selain itu, pemasangan keramik yang tepat dan presisi akan menambah estetika ruangan dan terkesan menjadi lebih rapi.
+	<br>
+
+	Anda perlu mendapatkan informasi yang tepat tentang pemilihan dan pemasangan keramik, meskipun Anda akan menggunakan <mark>JASARENOV</mark> <b>jasa pemasangan lantai keramik</b>. Mengetahui informasi bongkar-pasang keramik berguna untuk mengontrol dan memastikan pekerjaan tukang keramik sudah sesuai prosedur pemasangan yang tepat, sehingga Anda bisa mendapat manfaat maksimal.
 	</p>
 
 	<CardList>
