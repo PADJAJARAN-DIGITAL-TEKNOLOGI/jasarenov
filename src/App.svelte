@@ -112,8 +112,8 @@
 		</section>
 	</header>
 
-	<h2 id="⚓-common">
-		<a href="#⚓-common">
+	<h2 id="⚓-visi-misi">
+		<a href="#⚓-visi-misi">
 			Visi &amp; Misi
 		</a>
 	</h2>
@@ -142,16 +142,12 @@
 		{/if}
 	</CardList>
 
-
-	<h2 id="⚓-reverse">
-		<a href="#⚓-reverse">
-			Pemasangan Listrik
+	<h2 id="⚓-keramik">
+		<a href="#⚓-keramik">
+			Pemasangan Lantai Keramik
 		</a>
 	</h2>
 	<p>
-		<!-- All cards get a 3d rotation with CSS based on the cursor position.<br /> The default basic
-		non-holo cards simply apply a <mark>flare/glare effect</mark> to the card which follows the mouse. -->
-
 		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</p>
 
@@ -159,29 +155,28 @@
 		{#if isLoading}
 			loading...
 		{:else}
-			{#each basics as card, id}
+			{#each reverse as card, id}
 				<Card
 					id={card.id}
 					name={card.name}
-					img={card.images.large}
 					number={card.number}
+					set={card.set}
 					types={card.types}
 					supertype={card.supertype}
 					subtypes={card.subtypes}
+					rarity={card.rarity}
+					isReverse
 				/>
 			{/each}
 		{/if}
 	</CardList>
 
-	<h2 id="⚓-holo">
-		<a href="#⚓-holo">
+	<h2 id="⚓-rolling-door">
+		<a href="#⚓-rolling-door">
 			Rolling Door
 		</a>
 	</h2>
 	<p>
-		<!-- All cards get a 3d rotation with CSS based on the cursor position.<br /> The default basic
-		non-holo cards simply apply a <mark>flare/glare effect</mark> to the card which follows the mouse. -->
-
 		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</p>
 
@@ -189,20 +184,253 @@
 		{#if isLoading}
 			loading...
 		{:else}
-			{#each basics as card, id}
+			{#each holos as card, id}
 				<Card
 					id={card.id}
 					name={card.name}
-					img={card.images.large}
 					number={card.number}
+					set={card.set}
 					types={card.types}
 					supertype={card.supertype}
 					subtypes={card.subtypes}
+					rarity={card.rarity}
 				/>
 			{/each}
 		{/if}
 	</CardList>
 
+	<h2 id="⚓-renovasi-rumah">
+		<a href="#⚓-renovasi-rumah">
+			Jasa Renovasi Rumah
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+	<h3>Jasa Renovasi Rumah</h3>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each cosmos as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-atap-baja-ringan">
+		<a href="#⚓-atap-baja-ringan">
+			Atap Baja Ringan
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each amazings as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-modern-interior">
+		<a href="#⚓-modern-interior">
+			Modern Interior
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each radiant as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-intaslasi-listrik">
+		<a href="#⚓-intaslasi-listrik">
+			Instalasi Listrik
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each basicGallery as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-pemasangan-gypsum">
+		<a href="#⚓-pemasangan-gypsum">
+			Pemasangan Gypsum
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each vee as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-pengecetan-texture">
+		<a href="#⚓-pengecetan-texture">
+			Pokemon V <sup>(Full Art)</sup>
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+	<p>
+		The texture effect is not identical to reality as the real cards each have a unique pattern that
+		follows the art.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each veeUltra as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-canopy">
+		<a href="#⚓-canopy">
+			Pemasangan <sup>CANOPY</sup>
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+	<p>Canopy.</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each veeAlt as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-pemasangan-teraso">
+		<a href="#⚓-pemasangan-teraso">
+			VMax
+		</a>
+	</h2>
+	<p>
+		Lorem ipsum dolor sit amet, <mark>consectetur adipiscing elit</mark>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each veeMax as card, id}
+				<Card
+					id={card.id}
+					name={card.name}
+					number={card.number}
+					set={card.set}
+					types={card.types}
+					supertype={card.supertype}
+					subtypes={card.subtypes}
+					rarity={card.rarity}
+				/>
+			{/each}
+		{/if}
+	</CardList>
 </main>
 
 <div class="back-to-top">
