@@ -65,8 +65,8 @@
     "number": "127",
     "rarity": "Common",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",   
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
       "foil": "/img/foils/swsh12/foils/127_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh12/masks/127_foil_holo_reverse.png"
     }
@@ -81,8 +81,8 @@
     "number": "85",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",   
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
       "foil": "/img/foils/swsh12/foils/085_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh12/masks/085_foil_holo_reverse.png"
     }
@@ -97,8 +97,8 @@
     "number": "116",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",
       "foil": "/img/foils/swsh12/foils/116_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh12/masks/116_foil_holo_reverse.png"
     }
@@ -208,8 +208,8 @@
     "number": "SWSH012",
     "rarity": "Rare Holo Cosmos",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",
       "foil": "/img/foils/swshp/foils/012_foil_holo_cosmos.jpg",
       "mask": "/img/foils/swshp/masks/012_foil_holo_cosmos.png"
     }
@@ -223,8 +223,8 @@
     "number": "60",
     "rarity": "Rare Holo Cosmos",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",
       "foil": "/img/foils/swsh45/foils/060_foil_holo_swholo.jpg",
       "mask": "/img/foils/swsh45/masks/060_foil_holo_swholo.png"
     }
@@ -239,8 +239,8 @@
     "number": "SWSH127",
     "rarity": "Rare Holo Cosmos",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",
       "foil": "/img/foils/swshp/foils/127_foil_holo_cosmos.jpg",
       "mask": "/img/foils/swshp/masks/127_foil_holo_cosmos.png"
     }
@@ -557,8 +557,8 @@
     "number": "SWSH182",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png"
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png"  
     }
   },
   {
@@ -571,8 +571,8 @@
     "number": "SWSH184",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png"
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png"  
     }
   },
   {
@@ -585,8 +585,8 @@
     "number": "29",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png", 
       "foil": "/img/foils/swsh7/foils/029_foil_etched_sunpillar.jpg",
       "mask": "/img/foils/swsh7/masks/029_foil_etched_sunpillar.png"
     }
@@ -601,8 +601,8 @@
     "number": "51",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh45/foils/051_foil_etched_sunpillar.jpg",
       "mask": "/img/foils/swsh45/masks/051_foil_etched_sunpillar.png"
     }
@@ -617,8 +617,8 @@
     "number": "29",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png", 
       "foil": "/img/foils/swsh9/foils/029_foil_etched_sunpillar.jpg",
       "mask": "/img/foils/swsh9/masks/029_foil_etched_sunpillar.png"
     }
@@ -633,8 +633,8 @@
     "number": "270",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh8/foils/270_foil_etched_swsecret.jpg",
       "mask": "/img/foils/swsh8/masks/270_foil_etched_swsecret.png"
     }
@@ -649,8 +649,8 @@
     "number": "271",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png", 
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh8/foils/271_foil_etched_swsecret.jpg",
       "mask": "/img/foils/swsh8/masks/271_foil_etched_swsecret.png"
     }
@@ -665,8 +665,8 @@
     "number": "215",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh7/foils/215_foil_etched_swsecret.jpg",
       "mask": "/img/foils/swsh7/masks/215_foil_etched_swsecret.png"
     }
@@ -1102,8 +1102,8 @@
     "number": "120",
     "rarity": "Common",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh9/foils/120_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh9/masks/120_foil_holo_reverse.png"
     }
@@ -1118,8 +1118,8 @@
     "number": "49",
     "rarity": "Common",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh12/foils/049_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh12/masks/049_foil_holo_reverse.png"
     }
@@ -1134,8 +1134,8 @@
     "number": "138",
     "rarity": "Common",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh8/foils/138_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh8/masks/138_foil_holo_reverse.png"
     }
@@ -1149,8 +1149,8 @@
     "number": "68",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",     
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/pgo/foils/068_foil_holo_reverse.jpg",
       "mask": "/img/foils/pgo/masks/068_foil_holo_reverse.png"
     }
@@ -1164,8 +1164,8 @@
     "number": "173",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh1/foils/173_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh1/masks/173_foil_holo_reverse.png"
     }
@@ -1179,8 +1179,8 @@
     "number": "150",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png",
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/160_hires.png",  
       "foil": "/img/foils/swsh9/foils/150_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh9/masks/150_foil_holo_reverse.png"
     }

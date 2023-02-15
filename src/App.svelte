@@ -406,7 +406,7 @@
 
 	<h2 id="⚓-pemasangan-teraso">
 		<a href="#⚓-pemasangan-teraso">
-			VMax
+			Pemasanga Teraso
 		</a>
 	</h2>
 	<p>
