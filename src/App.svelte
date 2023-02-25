@@ -26,10 +26,10 @@
 				basics = cards.slice(1, 4);
 				reverse = cards.slice(4, 7);
 				// reverse = [...cards.slice(4, 7), ...cards.slice(70,76)];
-				holos = cards.slice(7, 13);
-				cosmos = cards.slice(13, 16);
+				holos = cards.slice(7, 10);
+				cosmos = cards.slice(10, 13);
 				amazings = cards.slice(76, 85);
-				radiant = cards.slice(16, 19);
+				radiant = cards.slice(13, 16);
 				basicGallery = cards.slice(19, 22);
 				vee = cards.slice(22, 25);
 				veeUltra = cards.slice(25, 28);
@@ -164,6 +164,66 @@
 			loading...
 		{:else}
 			{#each reverse as card, id}
+			<Card
+				id={card.id}
+				name={card.name}
+				img={card.images.large}
+				number={card.number}
+				types={card.types}
+				supertype={card.supertype}
+				subtypes={card.subtypes}
+		/>
+			{/each}
+		{/if}
+	</CardList>
+	
+	<h2 id="⚓-instalasi-listrik">
+		<a href="#⚓-instalasi-listrik">
+			Instalasi Listrik
+		</a>
+	</h2>
+	<p>
+		Melayani Instalasi atau Pemasangan & Perbaikan Semua Masalah Listrik Rumah & Bangunan dengan Harga Murah, Pelayanan Cepat & Bergaransi.
+	<br>
+	Sekarang tidak lagi bingung masalah Kelistrikan di rumah Anda, serahkan kepada ahlinya karena ada <mark>JASARENOV</mark>, <b>Merupakan Jasa Profesional</b> yang siap melayani dan mengatasi semua kebutuhan & permasalahan di rumah Anda, dengan moto "<mark>JASARENOV</mark> datang keluarga tenang dan senang"
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each holos as card, id}
+			<Card
+				id={card.id}
+				name={card.name}
+				img={card.images.large}
+				number={card.number}
+				types={card.types}
+				supertype={card.supertype}
+				subtypes={card.subtypes}
+		/>
+			{/each}
+		{/if}
+	</CardList>
+
+	<h2 id="⚓-atap-baja-ringan">
+		<a href="#⚓-atap-baja-ringan">
+			Atap Baja Ringan
+		</a>
+	</h2>
+	<p>
+	<mark>JASARENOV</mark> merupakan salah satu usaha yang bergerak di bidang spesialis jasa pemasangan baru maupun renovasi rangka atap baja ringan. Selain itu, kami juga menyediakan layanan pamasangan plafon, pemasangan genteng metal, canopy, pengecatan rumah dan lainnya.
+	<br>
+	Kami hadir dengan harapan dapat menjadi solusi bagi Anda yang membutuhkan jasa pemasangan baja ringan di daerah Bandung dan seluruh daerah Jawa-Barat.
+	<br>
+	<mark>JASARENOV</mark> telah didukung dengan para tenaga kerja yang kompeten dan berpengalaman di bidangnya. Sehingga kualitas, waktu dan hasil pekerjaan bisa semaksimal mungkin.
+	</p>
+
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each cosmos as card, id}
 			<Card
 				id={card.id}
 				name={card.name}

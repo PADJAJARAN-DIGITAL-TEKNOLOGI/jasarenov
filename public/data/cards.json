@@ -3,7 +3,7 @@
     "id": "swsh12pt5-160",
     "set": "swsh12pt5",
     "name": "Pikachu",
-    "supertype": "Pokémon",
+    "supertype": "Jasarenov",
     "subtypes": ["Basic"],
     "types": ["Lightning"],
     "number": "160",
@@ -17,7 +17,7 @@
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
-    "supertype": "Pokémon",
+    "supertype": "Jasarenov",
     "subtypes": ["Basic"],
     "types": ["Water"],
     "number": "33",
@@ -31,7 +31,7 @@
     "id": "sm115-7",
     "set": "sm115",
     "name": "Charmander",
-    "supertype": "Pokémon",
+    "supertype": "Jasarenov",
     "subtypes": ["Basic"],
     "types": ["Fire"],
     "number": "7",
@@ -59,7 +59,7 @@
     "id": "swsh12-127",
     "set": "swsh12",
     "name": "Togedemaru",
-    "supertype": "Pokémon",
+    "supertype": "Jasarenov",
     "subtypes": ["Reverse"],
     "types": ["Metal"],
     "number": "127",
@@ -75,28 +75,120 @@
     "id": "swsh12-127",
     "set": "swsh12",
     "name": "Togedemaru",
-    "supertype": "Pokémon",
+    "supertype": "Jasarenov",
     "subtypes": ["Reverse"],
     "types": ["Metal"],
     "number": "127",
     "rarity": "Common",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png"
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/pemasangankeramik3.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/pemasangankeramik3.png"
     }
   },
   {
     "id": "swsh45sv-SV107",
     "set": "swsh45sv",
     "name": "Charizard VMAX",
-    "supertype": "Pokémon",
+    "supertype": "Jasarenov",
     "subtypes": ["VMAX"],
     "types": ["Fire"],
     "number": "SV107",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1.png",
-      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/keramik-1_hires.png"
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/pemasangankeramik2.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/pemasangankeramik2.png"
+    }
+  },
+  {
+    "id": "swsh12-127",
+    "set": "swsh12",
+    "name": "Togedemaru",
+    "supertype": "Jasarenov",
+    "subtypes": ["Reverse"],
+    "types": ["Metal"],
+    "number": "127",
+    "rarity": "Common",
+    "images": {
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/instalasilistrikjadi.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/instalasilistrikjadi.png",
+      "foil": "/img/foils/swsh12/foils/127_foil_holo_reverse.jpg",
+      "mask": "/img/foils/swsh12/masks/127_foil_holo_reverse.png"
+    }
+  },
+  {
+    "id": "swsh12-127",
+    "set": "swsh12",
+    "name": "Togedemaru",
+    "supertype": "Jasarenov",
+    "subtypes": ["Reverse"],
+    "types": ["Metal"],
+    "number": "127",
+    "rarity": "Common",
+    "images": {
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/instalasilistrik3.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/instalasilistrik3.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV107",
+    "set": "swsh45sv",
+    "name": "Charizard VMAX",
+    "supertype": "Jasarenov",
+    "subtypes": ["VMAX"],
+    "types": ["Fire"],
+    "number": "SV107",
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/instalasilistrik2.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/instalasilistrik2.png"
+    }
+  },
+  {
+    "id": "swsh12-127",
+    "set": "swsh12",
+    "name": "Baja Ringan",
+    "supertype": "Jasarenov",
+    "subtypes": ["cosmos"],
+    "types": ["Metal"],
+    "number": "127",
+    "rarity": "Common",
+    "images": {
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/atapbajaringanjadi.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/atapbajaringanjadi.png",
+      "foil": "/img/foils/swsh12/foils/127_foil_holo_reverse.jpg",
+      "mask": "/img/foils/swsh12/masks/127_foil_holo_reverse.png"
+    }
+  },
+  {
+    "id": "swsh12-127",
+    "set": "swsh12",
+    "name": "Togedemaru",
+    "supertype": "Jasarenov",
+    "subtypes": ["Cosmos"],
+    "types": ["Metal"],
+    "number": "127",
+    "rarity": "Common",
+    "images": {
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/Abajaringan2.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/atapbajaringan2.png"
+    }
+  },
+  {
+    "id": "Jasarenov-1",
+    "set": "Jasarenov",
+    "name": "Jasarenov",
+    "supertype": "Jasarenov",
+    "subtypes": ["Cosmos"],
+    "types": ["Fire"],
+    "number": "baja",
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/atapbajaringan3.png",
+      "large": "https://raw.githubusercontent.com/PADJAJARAN-DIGITAL-TEKNOLOGI/jasarenov/main/public/data/atapbajaringan3.png"
     }
   }
+
 ]
+
+
+
